@@ -1,6 +1,7 @@
 # AminoCoins_Farm_Bot
 Фарм монет в приложении амино.
 Команды для установки:
+
     apt update
     apt upgrade -y
     apt install python -y
