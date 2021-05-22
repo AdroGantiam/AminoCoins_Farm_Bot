@@ -10,5 +10,6 @@
     pkg install git -y
     git clone https://github.com/AdroGantiam/AminoCoins_Farm_Bot
     login
+    termux-setup-storage
     cd AminoCoins_Farm_Bot
     python tryTry.py
