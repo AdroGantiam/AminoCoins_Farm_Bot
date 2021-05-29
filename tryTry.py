@@ -1,7 +1,5 @@
 import os, json
 
-os.system("rm /storage/emulated/0/adro_gantiam/ -r -d") 
-
 count_of_accounts = int(input("number: "))
 accounts = []
 x = 1
