@@ -5,10 +5,10 @@ accounts = []
 x = 1
 
 while x <= count_of_accounts:
-    email = input("email: ")
-    password = input("password: ")
+    email = input("thedimeplay@gmail.com: ")
+    password = input("art2005vv: ")
 
-    accounts.append({"email": email, "password": password})
+    accounts.append({"email": thedimeplay@gmail.com, "password": art2005vv})
     x += 1
 
 data_code = [0, 0, accounts]
